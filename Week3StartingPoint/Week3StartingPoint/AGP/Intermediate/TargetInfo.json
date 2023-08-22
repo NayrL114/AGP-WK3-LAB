@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AGP",
+			"Path": "C:\\Users\\13940162\\AppLockerExceptions\\Week3StartingPoint\\Week3StartingPoint\\AGP\\Source\\AGP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AGPEditor",
+			"Path": "C:\\Users\\13940162\\AppLockerExceptions\\Week3StartingPoint\\Week3StartingPoint\\AGP\\Source\\AGPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
