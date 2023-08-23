@@ -1,4 +1,4 @@
-C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\UnrealEditor\Inc\AGP\UHT\PlayerCharacter.gen.cpp
+"D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\UnrealEditor\Inc\AGP\UHT\PlayerCharacter.gen.cpp"
 /I .
 /I ..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT
 /I ..\Plugins\EnhancedInput\Source\EnhancedInput\Public
@@ -275,22 +275,23 @@ C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\UnrealEditor\Inc\AGP\UHT
-/I C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Source
-/I ThirdParty\mimalloc\include
-/I ThirdParty\LibTiff\Source\Win64
-/I ThirdParty\LibTiff\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\AGPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\UnrealEditor\Development\AGP\Definitions.AGP.h"
-/Yu"C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\AGPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\AGPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\UnrealEditor\Development\AGP\PlayerCharacter.gen.cpp.obj"
-/sourceDependencies C:\Users\13940162\AppLockerExceptions\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\UnrealEditor\Development\AGP\PlayerCharacter.gen.cpp.dep.json
+/I "D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\UnrealEditor\Inc\AGP\UHT"
+/I "D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Source"
+/external:W0
+/external:I ThirdParty\mimalloc\include
+/external:I ThirdParty\LibTiff\Source\Win64
+/external:I ThirdParty\LibTiff\Source
+/external:I "D:\MS Visual Studio\VC\Tools\MSVC\14.34.31933\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\AGPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\UnrealEditor\Development\AGP\Definitions.AGP.h"
+/Yu"D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\AGPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\AGPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\UnrealEditor\Development\AGP\PlayerCharacter.gen.cpp.obj"
+/sourceDependencies "D:\Ryan\Study\University\2022 Spring\31263 Intro to Game Dev\wk11 optional tut\AGP-WK3-LAB\Week3StartingPoint\Week3StartingPoint\AGP\Intermediate\Build\Win64\x64\UnrealEditor\Development\AGP\PlayerCharacter.gen.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
